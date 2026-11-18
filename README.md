@@ -2,7 +2,7 @@
 
 **A concept AI agent that protects independent hotels from no-shows.**
 
-**[Try the clickable prototype](https://ayeshagit59.github.io/BookingGuard/)** · **[Read the product note (PDF)](docs/Booking_Guard_Product_Note.pdf)**
+**[Try the clickable prototype](https://booking-guardhotels.vercel.app)** · **[Read the product note (PDF)](Booking_Guard_Product_Note.pdf)**
 
 <!-- Add a screenshot or GIF here: ![Booking Guard](docs/screenshot.png) -->
 
@@ -63,11 +63,11 @@ That is about ₹1.6 lakh a year less revenue lost for one 40-room hotel.
 2. **Live pilot (weeks 3–12):** the agent handles about 80% of bookings and the rest stay on today's process for comparison. A small test group keeps a token on quiet nights to measure whether paying makes guests likelier to come.
 3. **Go / no-go:** roll out to more hotels if revenue lost per 100 room-nights falls by at least 10% and both guardrails hold.
 
-The full reasoning, signal table and sources are in the [product note](docs/Booking_Guard_Product_Note.pdf).
+The full reasoning, signal table and sources are in the [product note](Booking_Guard_Product_Note.pdf).
 
 ## The prototype
 
-Open the [live prototype](https://ayeshagit59.github.io/BookingGuard/), or download this repo and open `index.html` in a browser. There is no server or build step. It is a single self-contained HTML file and works best on a laptop screen.
+Open the [live prototype](https://booking-guardhotels.vercel.app), or download this repo and open `index.html` in a browser. There is no server or build step. It is a single self-contained HTML file and works best on a laptop screen.
 
 **A good way to explore it:**
 
